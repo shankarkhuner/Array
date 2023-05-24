@@ -1,0 +1,11 @@
+class Array5
+{
+	public static void main(String[] args) 
+	{
+		int[] x = {100,200,300};
+		for(int xx : x)
+			{
+				System.out.println(xx);
+			}
+	}
+}

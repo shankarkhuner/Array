@@ -1,0 +1,29 @@
+class Array7
+{
+	public static void main(String[] args) 
+	{
+		int[] a = new int[3];
+		for(int aa:a)
+			{
+			System.out.println(aa);
+			}
+
+			float[] b = new float[3];
+			for(float bb:b)
+				{
+					System.out.println(bb);
+				}
+
+				char[] c = new char[3];
+			for(char cc:c)
+				{
+					System.out.println(cc);
+				}
+
+				boolean[] d = new boolean[3];
+			for(boolean dd:d)
+				{
+					System.out.println(dd);
+				}
+	}
+}

@@ -1,0 +1,18 @@
+
+
+
+// How do you calculate the length of Array
+
+class Array3
+{
+	public static void main(String[] args)
+	{
+		String[] a = new String[5];
+		/*a[0] = "P";
+		a[1] = "q";
+		a[2] = "R";
+		a[3] = "S";*/
+		System.out.println(a.length);
+		
+	}
+}
